@@ -2,8 +2,8 @@ const exports = {};
 exports.app_name = "EMS";
 // exports.API_URL = "http://127.0.0.1:8000/";
 // exports.IMAGE_URL = "http://127.0.0.1:8000/general/render/?file_path=";
-exports.API_URL = "https://api.dtms-nt.com/";
-exports.IMAGE_URL = "https://api.dtms-nt.com/general/render/?file_path=";
+exports.API_URL = "https://api.e-dct.com/";
+exports.IMAGE_URL = "https://api.e-dct.com/general/render/?file_path=";
 
 exports.API_ID_CARD =
   "https://localhost:8182/thaiid/read.jsonp?callback=callback&section1=true&section2a=true&section2c=true";
